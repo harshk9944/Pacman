@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.pacman.main.Pacman.java&apos; to &apos;PacMan.java&apos;&#x0D;&#x0A;- Original project: &apos;Pacman&apos;&#x0D;&#x0A;- Original element: &apos;com.pacman.main.Pacman.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.pacman.main.PacMan.java&apos;" description="Rename compilation unit &apos;Pacman.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.pacman.main{Pacman.java" name="PacMan.java" references="false" stamp="1732112525343" version="1.0"/>
+</session>
